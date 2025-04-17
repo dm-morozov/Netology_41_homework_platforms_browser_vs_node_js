@@ -1,7 +1,7 @@
 {
   "name": "@dm-morozov/ajs",
-  "version": "1.0.0",
-  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "version": "1.0.1",
+  "description": "Вторая версия нашего замечательного пакета",
   "keywords": [
     "homework",
     "javascript",
