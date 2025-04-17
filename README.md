@@ -20,6 +20,8 @@
 
 - 🌐 **Ссылка на JSBin**  
   ➤ [https://jsbin.com/liwohiwowu/edit?html,console](https://jsbin.com/liwohiwowu/edit?html,console)
+
+- 🔗 **Ссылка на проект с использованием библиотеки в браузере**
   ➤ [./Step_8_link_raw_of_github](./Step_8_link_raw_of_github)
 
 ---
