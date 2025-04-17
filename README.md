@@ -13,16 +13,16 @@
 ## 🔗 Ссылки
 
 - 📦 **Ссылка на репозиторий с библиотекой**  
-  ➤ [https://github.com/dm-morozov/Netology_41_homework_platforms_browser_vs_node_js/tree/main/Step_1-6](https://github.com/dm-morozov/Netology_41_homework_platforms_browser_vs_node_js/tree/main/Step_1-6)
+  ➤ [Step_1-6](./Step_1-6)
 
 - 🧩 **Ссылка на проект с использованием библиотеки в Node.js**  
-  ➤ [https://github.com/dm-morozov/Netology_41_homework_platforms_browser_vs_node_js/tree/main/Step_7](https://github.com/dm-morozov/Netology_41_homework_platforms_browser_vs_node_js/tree/main/Step_7)
+  ➤ [Step_7](./Step_7)
 
 - 🌐 **Ссылка на JSBin**  
   ➤ [https://jsbin.com/liwohiwowu/edit?html,console](https://jsbin.com/liwohiwowu/edit?html,console)
 
 -  🔗 **Ссылка на проект с использованием библиотеки в браузере**  
-  ➤ [https://github.com/dm-morozov/Netology_41_homework_platforms_browser_vs_node_js/tree/main/Step_8_link_raw_of_github](https://github.com/dm-morozov/Netology_41_homework_platforms_browser_vs_node_js/tree/main/Step_8_link_raw_of_github)
+  ➤ [Step_8_link_raw_of_github](./Step_8_link_raw_of_github)
 
 ---
 
