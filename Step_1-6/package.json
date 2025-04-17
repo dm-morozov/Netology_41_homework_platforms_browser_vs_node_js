@@ -17,7 +17,6 @@
   },
   "license": "ISC",
   "author": "dm-morozov",
-  "type": "module",
   "main": "dist/index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

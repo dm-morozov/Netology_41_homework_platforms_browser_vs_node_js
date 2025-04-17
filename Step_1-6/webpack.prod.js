@@ -1,5 +1,6 @@
 // webpack.prod.mjs         # Конфигурация для продакшена Webpack
 
-export default {
+module.exports = {
   mode: "production",
 };
+

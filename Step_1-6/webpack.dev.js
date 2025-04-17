@@ -1,6 +1,6 @@
 // webpack.dev.mjs          # Конфигурация для разработки Webpack
 
-export default {
+module.exports = {
   mode: "development",
   devtool: "inline-source-map",
   devServer: {
@@ -9,3 +9,4 @@ export default {
     port: 3000,
   },
 };
+
