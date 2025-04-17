@@ -12,6 +12,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@dm-morozov/ajs": "^1.0.0"
+    "@dm-morozov/ajs": "^1.0.1"
   }
 }
